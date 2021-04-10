@@ -1,0 +1,92 @@
+# Empty CSS file for your own CSS
+
+# 242B52
+# EEEC53
+# 93B7BE
+# D4F5F5
+# 8C9A9E
+
+
+body {
+}
+
+h2 {
+ font-weight: bold;
+}
+
+#uplift {
+  background-color: #242B52;
+  color: #FFFFFF;
+  padding: 20px;
+}
+#health {
+  background-color: #93B7BE;
+  color: #FFFFFF;
+  padding: 20px;
+}
+#enroll {
+  background-color: #8C9A9E;
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+#banner {
+  height: 80px;
+  display: span;
+}
+
+#toggle {
+  position: absolute;
+  right: -100px;
+  
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: #32746D;
+  margin-top: 10px;
+}
+
+.navbar {
+  background-color: #242B52;
+}
+
+
+#photo {
+  height: 25%;
+  top: 150px;
+  padding-left:30px;
+}
+
+#main {
+  display: flex;
+  float: left;
+}
+
+#photo {
+  flex: 50%;
+  height: 20%;
+}
+
+
+.jumbotron {
+  margin-top:30px;
+  background-color: #CED3DC;
+  color: black;
+}
+
+#stamp {
+  height: 10px;
+}
+
+body {
+}
